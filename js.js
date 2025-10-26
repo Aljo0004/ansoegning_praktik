@@ -21,6 +21,6 @@ contents.forEach((indhold) => {
   const carousel = indhold.querySelector(".img_carousel");
   indhold.addEventListener("click", () => {
     carousel.classList.toggle("active");
-    indhold.classList.toggle("active"); // toggler tekstboksen
+    indhold.classList.toggle("active");
   });
 });

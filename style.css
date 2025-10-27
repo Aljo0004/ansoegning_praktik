@@ -318,7 +318,7 @@ nav {
   flex-shrink: 0;
   border-radius: 0;
   display: block;
-  opacity: 50%;
+  opacity: 70%;
 }
 
 @keyframes scrollMarquee {

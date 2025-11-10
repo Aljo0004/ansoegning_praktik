@@ -292,7 +292,6 @@ nav {
 .carousel_container {
   width: 100%;
   overflow-x: hidden;
-  /* border-radius: 20px; */
 }
 
 .content {
@@ -364,14 +363,6 @@ footer {
   padding-right: 30px;
 }
 
-.footer_text {
-align-items: center;
-
-}
-.footer_text a {
-  text-decoration: none;
-  font-size: 4rem;
-}
 .icons_flex {
   display: flex;
   justify-content: flex-start;
@@ -418,7 +409,7 @@ align-items: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    text-align: justify;
+    text-align:start;
     font-size: 18px;
   }
 
